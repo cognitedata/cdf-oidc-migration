@@ -1,0 +1,34 @@
+[
+    {
+        "Group": "aad-group-1",
+        "CDFAlias": "cdf-group-1",
+        "Capabilities": [
+            {
+                "timeSeriesAcl": {
+                    "actions": [
+                        "READ"
+                    ],
+                    "scope": {
+                        "all": {}
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "Group": "aad-group-2",
+        "CDFAlias": "cdf-group-2",
+        "Capabilities": [
+            {
+                "timeSeriesAcl": {
+                    "actions": [
+                        "READ"
+                    ],
+                    "scope": {
+                        "all": {}
+                    }
+                }
+            }
+        ]
+    }
+]

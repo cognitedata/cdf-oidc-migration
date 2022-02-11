@@ -1,0 +1,8 @@
+[
+    {
+        "User": "user-email@test.com",
+        "Groups": [
+            "aad-group-1"
+        ]
+    }
+]

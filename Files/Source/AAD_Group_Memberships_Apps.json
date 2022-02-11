@@ -1,0 +1,9 @@
+[
+    {
+        "Service principal": "app-1",
+        "Groups": [
+            "aad-group-1",
+            "aad-group-2"
+        ]
+    }
+]
