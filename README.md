@@ -1,6 +1,6 @@
 # CDF-OIDC-Migration
 
-Scripts that can be used to migrate Cognite Data Fusion [(CDF)](https://docs.cognite.com/dev/) tenants from Legacy authentication to Native Tokens authentication with Azure
+Sample Scripts that can be used to migrate Cognite Data Fusion [(CDF)](https://docs.cognite.com/dev/) tenants from Legacy authentication to Native Tokens authentication with Azure. The scripts are available as-is and serve as starting points for you to customize/contribute to your needs:
 
 ## Step 1 - Install required dependencies
 
